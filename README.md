@@ -154,6 +154,27 @@ The SQL analysis contains **20 questions**, progressing from easy to advanced.
 This progression makes the project suitable for demonstrating practical SQL learning from fundamentals through relational and analytical queries.
 
 ---
+## 📸 Project Screenshots
+
+### 1. Books_data_analysis
+![library_management_analytics](screenshots/books_data_analysis.png)
+
+### 2. Category_analysis
+![library_management_analytics](screenshots/category_analysis.png)
+
+### 3. Member_book_join_analysis
+![library_management_analytics](screenshots/member_book_join_analysis.png)
+
+### 4. most_issued_books.
+![library_management_analytics](screenshots/most_issued_books..png)
+
+### 5.Books_never_issued
+![library_management_analytics](screenshots/Books_never_issued.png)
+
+### 6. advanced_member_analysis.
+![library_management_analytics](screenshotsadvanced_member_analysis..png)
+
+---
 
 ## 💡 Key Project Insights
 
