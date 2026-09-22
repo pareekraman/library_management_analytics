@@ -157,22 +157,22 @@ This progression makes the project suitable for demonstrating practical SQL lear
 ## 📸 Project Screenshots
 
 ### 1. Books_data_analysis
-![library_management_analytics](screenshots/books_data_analysis.png)
+![library_management_analytics](screenshots/books_data_analysis.png.png)
 
 ### 2. Category_analysis
-![library_management_analytics](screenshots/category_analysis.png)
+![library_management_analytics](screenshots/category_analysis.png.png)
 
 ### 3. Member_book_join_analysis
-![library_management_analytics](screenshots/member_book_join_analysis.png)
+![library_management_analytics](screenshots/member_book_join_analysis.png.png)
 
 ### 4. most_issued_books.
-![library_management_analytics](screenshots/most_issued_books..png)
+![library_management_analytics](screenshots/most_issued_books..png.png)
 
 ### 5.Books_never_issued
-![library_management_analytics](screenshots/Books_never_issued.png)
+![library_management_analytics](screenshots/Books_never_issued.png.png)
 
 ### 6. advanced_member_analysis.
-![library_management_analytics](screenshotsadvanced_member_analysis..png)
+![library_management_analytics](screenshotsadvanced_member_analysis..png.png)
 
 ---
 
